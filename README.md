@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaldurRoethingheim
-- 👀 I’m interested in C#(Client Apps, Microsoft AddOns, Unity)
+- 👀 I’m interested in C#(Client Apps, Microsoft AddOns, Game Developement Engines / Environments)
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
